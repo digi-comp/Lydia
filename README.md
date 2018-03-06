@@ -1,0 +1,2 @@
+# Lydia
+Lydia is an exciting, disruptive array of blockchain projects. Focussed on developing and deploying e-commerce infrastructure for the future. LDCC is seeking blockchain, dAPP, ADAX and network specialist, to help develop and deploy e-commerce blockchain solutions.  LDCC is a commercial venture and remuneration will is obviously available to key contributors. Please contact Derryn at LDCC for exprssions of interest.  Python, Java, Ruby and C++.
